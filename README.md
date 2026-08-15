@@ -1,9 +1,6 @@
-<div align="center">
+# 🌌 Rebeca Bueno
 
-# Olá, eu sou a Rebeca
-</div>
-
-**Técnica em Cybersegurança | Desenvolvedora Back-end**
+**🖥️ Técnica em Cybersegurança | ⌨️Desenvolvedora Back-end**
 
 -Bem-vindo ao meu espaço! <br>
 No momento sou estudando **Desenvolvimento Back-end** e tenho uma base em **Segurança Cibernetica**. <br>
