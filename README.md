@@ -17,8 +17,6 @@ Meu objetivo é transformar o que estudo em projetos reais, documentar minha evo
 -🧠 Gosto de aprender entendendo o porquê, não apenas copiando código <br>
 -🚀 Buscando minha primeira oportunidade profissional na área de tecnologia
 
-<br>
-
 ### 🛠️ Tech Stack & Ferramentas
 
 <div>
