@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MoonBlue47/MoonBlue47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Rebeca
 
-Here are some ideas to get you started:
+**Técnica em Cybersegurança | Desenvolvedora Back-end**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bem-vindo ao meu espaço! 
+No momento sou estudando **Desenvolvimento Back-end** e tenho uma base em **Segurança Cibernetica**.
+Meu objetivo é transformar o que estudo em projetos reais, documentar minha evolução e continuar desenvolvendo minhas habilidades para entrar profissionalmente na área de tecnologia.
+
+---
+
+### 💻 Sobre Mim
+🌱 Atualmente construindo meu portfólio e minha experiência prática
+📚 Sempre estudando alguma coisa nova
+🧠 Gosto de aprender entendendo o porquê, não apenas copiando código
+🚀 Buscando minha primeira oportunidade profissional na área de tecnologia
+</div>
