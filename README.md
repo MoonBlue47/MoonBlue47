@@ -5,9 +5,9 @@
 
 **Técnica em Cybersegurança | Desenvolvedora Back-end**
 
--Bem-vindo ao meu espaço! 
--No momento sou estudando **Desenvolvimento Back-end** e tenho uma base em **Segurança Cibernetica**.
--Meu objetivo é transformar o que estudo em projetos reais, documentar minha evolução e continuar desenvolvendo minhas habilidades para entrar profissionalmente na área de tecnologia.
+-Bem-vindo ao meu espaço! <br>
+No momento sou estudando **Desenvolvimento Back-end** e tenho uma base em **Segurança Cibernetica**. <br>
+Meu objetivo é transformar o que estudo em projetos reais, documentar minha evolução e continuar desenvolvendo minhas habilidades para entrar profissionalmente na área de tecnologia.
 
 ---
 
