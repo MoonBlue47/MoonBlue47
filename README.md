@@ -28,10 +28,3 @@ Meu objetivo é transformar o que estudo em projetos reais, documentar minha evo
   <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=8A2BE2">
 </div>
 
----
-
-### 📊 Meus Dados
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MoonBlue47&bg_color=0D0D0D&title_color=FF1744&text_color=F5F5F5&icon_color=FF1744&border_color=333333&show_icons=true&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonBlue47&bg_color=0D0D0D&title_color=FF1744&text_color=F5F5F5&border_color=333333&layout=compact&locale=pt-br" />
-</div>
