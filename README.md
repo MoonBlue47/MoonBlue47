@@ -20,11 +20,18 @@ Meu objetivo é transformar o que estudo em projetos reais, documentar minha evo
 ### 🛠️ Tech Stack & Ferramentas
 
 <div>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00FFFF">
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=00FF00">
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF00FF">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF4500">
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFFF">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFF00">
-  <img src="https://img.shields.io/badge/Godot_Engine-000000?style=for-the-badge&logo=godotengine&logoColor=478CBF">
+<img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=java&logoColor=FF1744">
+  <img src="https://img.shields.io/badge/Spring_Boot-0D0D0D?style=for-the-badge&logo=spring&logoColor=FF1744">
+  <img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=8A2BE2">
+  <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF1744">
+  <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF1744">
+  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=8A2BE2">
+</div>
+
+---
+
+### 📊 Meus Dados
+<div>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MoonBlue47&bg_color=0D0D0D&title_color=FF1744&text_color=F5F5F5&icon_color=FF1744&border_color=333333&show_icons=true&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonBlue47&bg_color=0D0D0D&title_color=FF1744&text_color=F5F5F5&border_color=333333&layout=compact&locale=pt-br" />
 </div>
