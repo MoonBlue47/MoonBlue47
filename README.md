@@ -1,6 +1,7 @@
 <div align="center">
 
 # Olá, eu sou a Rebeca
+</div>
 
 **Técnica em Cybersegurança | Desenvolvedora Back-end**
 
@@ -15,4 +16,3 @@
 -📚 Sempre estudando alguma coisa nova
 -🧠 Gosto de aprender entendendo o porquê, não apenas copiando código
 -🚀 Buscando minha primeira oportunidade profissional na área de tecnologia
-</div>
