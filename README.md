@@ -1,5 +1,5 @@
 <div>
-  <img src="assetes/transferir.jpg">
+  <img src="./assentes/transferir.jpg">
 </div>
 # 🌌 Rebeca Bueno
 
