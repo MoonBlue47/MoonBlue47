@@ -16,5 +16,4 @@ Meu objetivo é transformar o que estudo em projetos reais, documentar minha evo
 
 ### 🛠️ Tech Stack & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,postgres,html,css,js,git,github" height="35" alt="Tecnologias" /> </div>
-
+<div> <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=java&logoColor=FF1744"> <img src="https://img.shields.io/badge/Spring_Boot-0D0D0D?style=for-the-badge&logo=spring&logoColor=FF1744"> <img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=8A2BE2"> <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF1744"> <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF1744"> <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=8A2BE2"> </div>
