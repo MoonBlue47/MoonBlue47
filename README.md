@@ -1,5 +1,5 @@
-<div>
-  <img src="./assentes/transferir.jpg">
+<divalign="center">
+  <img src="./assentes/transferir.jpg" width="800">
 </div>
 # 🌌 Rebeca Bueno
 
