@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[LINK_DA_IMAGEM](https://github.com/MoonBlue47/MoonBlue47/issues/1#issue-5173830579)" width="800">
+  <img src="./Banner" width="800">
 </div>
 
 # 🌌 Rebeca Bueno
@@ -20,4 +20,10 @@ Meu objetivo é transformar o que estudo em projetos reais, documentar minha evo
 
 ### 🛠️ Tech Stack & Ferramentas
 
-<div> <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=java&logoColor=FF1744"> <img src="https://img.shields.io/badge/Spring_Boot-0D0D0D?style=for-the-badge&logo=spring&logoColor=FF1744"> <img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=8A2BE2"> <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF1744"> <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF1744"> <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=8A2BE2"> </div>
+<div> <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=java&logoColor=FF1744"> 
+  <img src="https://img.shields.io/badge/Spring_Boot-0D0D0D?style=for-the-badge&logo=spring&logoColor=FF1744"> 
+  <img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=8A2BE2"> 
+  <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF1744"> 
+  <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF1744"> 
+  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=8A2BE2"> 
+</div>
