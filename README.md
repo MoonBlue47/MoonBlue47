@@ -1,4 +1,4 @@
-<divalign="center">
+<div align="center">
   <img src="./assentes/transferir.jpg" width="800">
 </div>
 # 🌌 Rebeca Bueno
