@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="[LINK_DA_IMAGEM](https://github.com/MoonBlue47/MoonBlue47/issues/1#issue-5173830579)" width="800">
+</div>
+
 # 🌌 Rebeca Bueno
 
 **🖥️ Técnica em Cybersegurança | ⌨️Desenvolvedora Back-end**
