@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="./Banner" width="800">
+  <img src="assets/banner" width="800">
 </div>
-
 # 🌌 Rebeca Bueno
 
 **🖥️ Técnica em Cybersegurança | ⌨️Desenvolvedora Back-end**
