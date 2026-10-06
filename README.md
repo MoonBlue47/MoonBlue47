@@ -2,7 +2,6 @@
   <img src="./assentes/transferir.jpg" width="500">
 </div>
 
-
 # 🌌 Rebeca Bueno
 
 **🖥️ Técnica em Cybersegurança | ⌨️Desenvolvedora Back-end**
@@ -19,12 +18,14 @@ Meu objetivo é transformar o que estudo em projetos reais, documentar minha evo
 -🧠 Gosto de aprender entendendo o porquê, não apenas copiando código <br>
 -🚀 Buscando minha primeira oportunidade profissional na área de tecnologia
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️️ Tech Stack & Ferramentas
 
-<div> <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=java&logoColor=FF1744"> 
-  <img src="https://img.shields.io/badge/Spring_Boot-0D0D0D?style=for-the-badge&logo=spring&logoColor=FF1744"> 
-  <img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=8A2BE2"> 
-  <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF1744"> 
-  <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF1744"> 
-  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=8A2BE2"> 
+<div> 
+  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FFE873">
+  <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=java&logoColor=FF5252"> 
+  <img src="https://img.shields.io/badge/Spring_Boot-0D0D0D?style=for-the-badge&logo=spring&logoColor=FF5252"> 
+  <img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=C084FC"> 
+  <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF5252"> 
+  <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=38BDF8"> 
+  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=C084FC"> 
 </div>
